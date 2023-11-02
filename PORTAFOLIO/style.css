@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.Nico{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    background: linear-gradient(to bottom right,#00DFA2, #FF0060);
+    height: 100vh;
+    width: 100%;
+}
+.titulo{
+    text-align: center;
+    padding: 2rem;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+}
+h1{
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: 5em;
+    text-align: center;
+    align-items: center;
+    text-shadow: 1px 1px 2px #FF0060 ;
+}
+h2{
+    display: block;
+    color: black;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    text-shadow: 1px 1px 2px #FF0060;
+}
+a{
+    color: black;
+    font-size: 1.5rem;
+    text-shadow:2px 2px 2px #FF0060;
+}
+a:hover{
+    color: #00DFA2;
+    text-shadow: 1px 1px 2px black;
+}
+

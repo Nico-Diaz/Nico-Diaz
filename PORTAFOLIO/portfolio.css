@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    font-family: 'Nunito Sans', sans-serif;
+    background: linear-gradient(to bottom right,#00DFA2, #FF0060);
+}   
+.PROJECTS{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 100vh;
+    width: 100%;
+}
+h1{
+    margin: 0 auto;
+    color: black;
+    font-size: 5em;
+    text-align: center;
+    text-shadow: 1px 1px 2px #FF0060 ;
+}
+h2{
+    font-size: 2em;
+}
+#menu{
+    font-size: 2em;
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+}
+#AboutMe{
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 1.5em;
+    color: black;
+    text-shadow: 1px 1px 2px #FF0060;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+}
+#Abilities{
+    width: 600px;
+    margin: 0 auto;
+    font-size: 1.5em;
+    color: black;
+    text-shadow: 1px 1px 2px #FF0060;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+#Projects{
+    text-align: center;
+    font-size: 1.5em;
+    margin:0 auto;
+    padding: 5em;
+    color: black;
+    text-shadow: 1px 1px 2px #FF0060;
+    width: 800px;
+}
+.contacts{
+    display: inline;
+    
+}
+article{
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    width: 600px;
+    border: 2px solid #FF0060;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 5px 5px 6px #00DFA2;
+    padding: 10px;
+}
+img{
+    width: 400px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.imgabilities{
+    border: none;
+    width: 200px;
+}
+#Contacts{
+    margin: 0 auto;
+    text-align: center;
+    padding: 4rem;
+}
+.contacts{
+    background: none;
+    border: none;
+    text-shadow: none;
+    box-shadow: none;
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+li{
+    list-style-position: inside;
+}
+a{
+    color: black;
+    text-shadow: 1px 1px 2px #FF0060;
+    text-decoration: none;
+}
+a:hover{
+    color: #00DFA2;
+    text-shadow: 1px 1px 2px black;
+}
+article:hover{
+    text-shadow: 1px 1px 2px #00DFA2;
+    box-shadow: 10px 10px 10px #FF0060;
+    transition: all;
+}
+.contacts{
+    box-shadow: none;
+}
+#Contacts{
+    box-shadow: none;
+}

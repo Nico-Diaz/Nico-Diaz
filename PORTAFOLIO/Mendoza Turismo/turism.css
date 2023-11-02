@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #F2E8C6;
+    color: black;
+}
+header{
+    background-color: #952323;
+    color: #F2E8C6;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+article{
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    width: 1000px;
+    list-style-position: inside;
+    list-style-type:circle;
+    text-align: left;
+    font-size: 2rem;
+}
+h2{
+    text-align: center;
+    text-decoration: underline #952323;
+}
+.planes{
+    background-color: #952323;
+    color: #F2E8C6;
+    width: 400px;
+    border: 3px solid black;
+}
+.tours{
+    background-color: #952323;
+    color: #F2E8C6;
+}
+dt{
+    text-decoration: underline #F2E8C6;
+    text-align: center;
+}
+div{
+    margin: 0 auto;
+    background-color: #952323;
+    color: #F2E8C6;
+    width: 1000px;
+    border: 3px solid black;    
+}

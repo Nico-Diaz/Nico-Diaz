@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: #DAD4B5
+}
+header{
+    background-color: #952323;
+    color: #F2E8C6;
+    padding:3rem;
+    text-align: center;
+    font-size: x-large
+}
+section{
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    font-size: 20px;
+}
+section dl dt{
+    font-size: 40px;
+    text-decoration: underline #952323;
+    font-weight: bold;
+}
+li{
+    list-style-position: inside;
+    list-style-type:circle;
+}

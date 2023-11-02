@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-color: #DAD4B5;
+}
+header{
+    background-color: #952323;
+    color: #DAD4B5;
+    text-align: center;
+    padding: 2rem;
+    font-size: 3rem;
+}
+div{
+    width: 1000px;
+    margin: 0 auto;
+    color: black;
+}
+div dl dt{
+    text-align:center ;
+    font-size: 3rem;
+    text-decoration: underline #952323;
+    padding: 3rem;
+}
+dd{
+    font-size: 2rem;
+}

@@ -1,0 +1,63 @@
+body{
+    background: url(descarga.jpg) no-repeat center fixed;
+    background-size: cover;
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+section{
+    background-color: whitesmoke;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 1%;
+    padding: 2rem;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#Username{
+    font-size: 1.5rem;
+    display: block;
+    margin: 15px;
+    padding: 5px;
+    
+}
+#Password{
+    font-size: 1.5rem;
+    display: block;
+    margin: 15px;
+    padding: 5px;
+}
+#name{
+    border: none;
+    background-color: whitesmoke;
+    border-bottom: 1px solid gray;
+    padding: 0.5rem 0.5rem;
+    text-decoration:black;
+}
+#contraseña{
+    border: none;
+    background-color: whitesmoke;
+    border-bottom: 1px solid gray;
+    padding: 0.5rem 0.5rem;
+}
+#enviar{
+    width: 100px;
+}
+#enviar:hover{
+    box-shadow: 1px 1px 1px;
+}
+a{
+    color: rgba(207, 3, 3, 0.842);
+}
+a:hover{
+    text-shadow: 0.5px 0.5px 0.5px;
+}

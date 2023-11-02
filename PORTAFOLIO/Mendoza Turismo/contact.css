@@ -1,0 +1,27 @@
+body{
+    background-color: #DAD4B5;
+    margin: 0px;
+}
+header{
+    background-color: #952323;
+    color: #F2E8C6;
+    text-align: center;
+    padding: 2rem;
+}
+main{
+    margin: 0 auto;
+    text-align: center;
+    border: black solid;
+    background-color: #952323;
+    width: 800px;
+    color: #F2E8C6;
+    padding: 2rem;
+}
+input{
+    background-color: #DAD4B5;
+    color: black;
+}
+select{
+    background-color: #DAD4B5;
+    color: black;
+}
